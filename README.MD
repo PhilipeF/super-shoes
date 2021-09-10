@@ -16,5 +16,6 @@
 
 ## Sobre 
 <br>
-Fiz esse projeto para treinar as minhas habilidades seguindo as instruções do professor @emersonbroga. Neste projeto utilizei react, javascript, html e css. É um projeto simples que geralmente algumas empresas pedem na hora do processo seletivo. Como o próprio nome diz é um carrossel contendo informações como imagem, preço, modelo de varios modelos de tênis.   
+Fiz esse projeto para treinar as minhas habilidades seguindo as instruções do professor @emersonbroga. Neste projeto utilizei react, javascript, html e css. É um projeto simples que me gerou um aprendizado importante que com certeza vou aplicar nos próximos projetos pessoais.
+Como o próprio nome diz é um carrossel contendo informações sobre vários modelos de tênis.  #react #javascript #css #html #developer
     
